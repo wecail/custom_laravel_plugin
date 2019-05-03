@@ -1,6 +1,6 @@
 <?php
 
-namespace wecail\custom_laravel_plugin\Cache;
+namespace Wecail\CustomLaravelPlugin\Cache;
 
 
 use Illuminate\Redis\RedisManager;

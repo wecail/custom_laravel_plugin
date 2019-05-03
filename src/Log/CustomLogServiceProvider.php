@@ -1,6 +1,6 @@
 <?php
 
-namespace wecail\custom_laravel_plugin\log;
+namespace Wecail\CustomLaravelPlugin\Log;
 
 
 use Illuminate\Log\LogServiceProvider;

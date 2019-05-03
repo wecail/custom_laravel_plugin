@@ -1,6 +1,6 @@
 <?php
 
-namespace wecail\custom_laravel_plugin\log\Traits;
+namespace Wecail\CustomLaravelPlugin\Traits;
 
 trait ToolsTraits
 {

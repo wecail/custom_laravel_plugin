@@ -1,10 +1,10 @@
 <?php
 
-namespace wecail\custom_laravel_plugin\log;
+namespace Wecail\CustomLaravelPlugin\Log;
 
 
-use wecail\custom_laravel_plugin\log\Formatter\CustomLogFormatter;
-use wecail\custom_laravel_plugin\log\Traits\ToolsTraits;
+use Wecail\CustomLaravelPlugin\Log\Formatter\CustomLogFormatter;
+use Wecail\CustomLaravelPlugin\Traits\ToolsTraits;
 use Illuminate\Log\LogManager;
 use Ramsey\Uuid\Uuid;
 

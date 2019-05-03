@@ -1,10 +1,10 @@
 <?php
 
-namespace wecail\custom_laravel_plugin;
+namespace Wecail\CustomLaravelPlugin;
 
 
-use wecail\custom_laravel_plugin\log\CustomLogServiceProvider;
-use wecail\custom_laravel_plugin\Cache\CustomRedisServiceProvider;
+use Wecail\CustomLaravelPlugin\Log\CustomLogServiceProvider;
+use Wecail\CustomLaravelPlugin\Cache\CustomRedisServiceProvider;
 use Illuminate\Support\ServiceProvider;
 
 

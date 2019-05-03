@@ -1,6 +1,6 @@
 <?php
 
-namespace wecail\custom_laravel_plugin\log\Formatter;
+namespace Wecail\CustomLaravelPlugin\Log\Formatter;
 
 
 use Monolog\Formatter\LineFormatter;
