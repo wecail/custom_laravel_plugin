@@ -15,9 +15,9 @@
         "predis/predis": "^1.1"
     },
     "autoload": {
-        "psr-4": {"wecail\\custom-laravel-plugin\\": "src"}
+        "psr-4": {"Wecail\\CustomLaravelPlugin\\": "src"}
     },
     "autoload-dev": {
-        "psr-4": {"wecail\\custom-laravel-plugin\\": "src"}
+        "psr-4": {"wecail\\CustomLaravelPlugin\\": "src"}
     }
 }
