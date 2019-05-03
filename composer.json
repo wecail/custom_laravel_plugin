@@ -18,6 +18,6 @@
         "psr-4": {"Wecail\\CustomLaravelPlugin\\": "src"}
     },
     "autoload-dev": {
-        "psr-4": {"wecail\\CustomLaravelPlugin\\": "src"}
+        "psr-4": {"Wecail\\CustomLaravelPlugin\\": "src"}
     }
 }
